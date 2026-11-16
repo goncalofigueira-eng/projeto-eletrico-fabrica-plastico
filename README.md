@@ -5,7 +5,7 @@ Repositório dedicado à documentação, projeto elétrico e licenciamento de um
 ---
 
 ## 👥 Autoria e Enquadramento
-* **Grupo 2**: André XXX, Gonçalo Figueira, Luiz XXX e Tiago XXX.
+* **Grupo 2**: Gonçalo Figueira, André XXX, Luiz XXX e Tiago XXX.
 * **Requerente**: Escola Superior de Tecnologias e Gestão de Águeda (ESTGA).
 * **Localização**: Avenida das Ferragens, Parque Empresarial do Casarão, Águeda.
 * **Enquadramento Legal**: Instalação de Utilização de Energia Elétrica de Serviço Particular, do Tipo B, regulada pelo Decreto-Lei n.º 517/80 (com a redação do Decreto-Lei n.º 101/2007) e pelas Regras Técnicas de Instalações de Utilização de Energia Elétrica em Baixa Tensão (R.T.I.U.E.E.B.T.).
