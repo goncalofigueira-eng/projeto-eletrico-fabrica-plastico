@@ -2,6 +2,9 @@
 
 Projeto académico de conceção elétrica e preparação da documentação de licenciamento de uma unidade industrial de injeção de plástico, desenvolvido pelo Grupo 2, no qual me inseria, e que obteve a classificação de 17 valores.
 
+<img width="1182" height="703" alt="image" src="https://github.com/user-attachments/assets/c04dcb3e-39eb-4e42-8122-3b0263cbd408" />
+
+
 ## Problema
 
 O projeto consistiu em definir a infraestrutura elétrica necessária ao funcionamento de uma fábrica de injeção de plástico e organizar a documentação técnica associada ao seu licenciamento.
